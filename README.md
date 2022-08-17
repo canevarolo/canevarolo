@@ -37,7 +37,7 @@ Energy engeneering student at Politecnico di Torino. Born in 2000 in Turin, Ital
 <br />
 
 <div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=mik3sw&count_private=true&include_all_commits=true&theme=dracula&hide-border=true&show_icons=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mik3sw&layout=compact&theme=dracula" />
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=canevarolo&count_private=true&include_all_commits=true&theme=dracula&hide-border=true&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=canevarolo&layout=compact&theme=dracula" />
 </div>
             
