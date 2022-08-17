@@ -1,6 +1,4 @@
-## Hi there!
-
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="50" width="50">
+## Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="50" width="50">
 
 Energy engeneering student at Politecnico di Torino. Born in 2000 in Turin, Italy.
 
@@ -15,6 +13,6 @@ Energy engeneering student at Politecnico di Torino. Born in 2000 in Turin, Ital
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=canevarolo&label=Profile%20views&color=0e75b6&style=flat" alt="binco97" /> </p>
 
-#### 🔗 Social Media and Website
+#### 🔗 Social Media
 
 [![LinkedIN Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/simone-canevarolo-270952199/)
