@@ -24,9 +24,9 @@ I started learning Python very recently.
 
 #### 🔗 Social Media
 
-[![LinkedIN Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/simone-canevarolo-270952199/)
+[![LinkedIN Badge](https://img.shields.io/badge/-Linkedin-0e76a8?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/simone-canevarolo-270952199/)
 
-[![Telegram Badge](https://img.shields.io/badge/-Telegrm-0e76a8?logo=Telegram&logoColor=white)](https://t.me/SCanevarolo)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0e76a8?logo=Telegram&logoColor=white)](https://t.me/SCanevarolo)
 
 <br />
 
