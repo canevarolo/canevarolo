@@ -15,11 +15,13 @@ I started learning Python very recently.
 
 #### ⚡ My GitHub Statistics
 
-<p>
+</p>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=canevarolo&show_icons=true&hide_border=true&theme=vue-dark" />
 
+</p>
+
 <!-- Most Used Languages -->
-<img align="right" height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=canevarolo&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=vue-dark"/>
+<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=canevarolo&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=vue-dark"/>
 </p>
 
 #### 🔗 Social Media
