@@ -1,7 +1,7 @@
 ## Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="50" width="50">
 
 My name is Simone Canevarolo, energy engeneering student at Politecnico di Torino.
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="50" width="50">
+<img src="" height="50" width="50">
 
 Born in 2000 in Turin, Italy. 
 <img src="https://github.com/madebybowtie/FlagKit/blob/master/Assets/PNG/IT.png">
@@ -10,7 +10,9 @@ Born in 2000 in Turin, Italy.
 #### Languages I know
 </p>
 
-[![My Skills](https://skills.thijs.gg/icons?i=c)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=c,python)](https://skills.thijs.gg)
+</p>
+I started learning Python very recently.
 
 #### ⚡ My GitHub Statistics
 
