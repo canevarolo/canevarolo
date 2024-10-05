@@ -9,7 +9,7 @@ Born in 2000 in Turin, Italy.
 #### Languages I know
 </p>
 
-I learnt the foundamentals of C come years ago, I recently learned the applications of Matlab for heat transfer problems also in 2D. I'd like to learn Python.
+I learnt the foundamentals of C come years ago, I recently learned the applications of Matlab for heat transfer problems with 2D applications, transitory and advection. I'd like to learn Python.
 
 #### ⚡ My GitHub Statistics
 
