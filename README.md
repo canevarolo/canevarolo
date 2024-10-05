@@ -9,9 +9,7 @@ Born in 2000 in Turin, Italy.
 #### Languages I know
 </p>
 
-[![My Skills](https://skills.thijs.gg/icons?i=c,python)](https://skills.thijs.gg)
-</p>
-I started learning Python very recently.
+I learnt the foundamentals of C come years ago, I recently learned the applications of Matlab for heat transfer problems also in 2D. I'd like to learn Python.
 
 #### ⚡ My GitHub Statistics
 
