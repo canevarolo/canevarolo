@@ -9,8 +9,10 @@ Born in 2000 in Turin, Italy.
 #### Languages I know
 </p>
 
-I learnt the foundamentals of C some years ago, I recently learned the applications of Matlab for heat transfer problems with 2D applications in transitory and advection/convection. I'm also studying for obtaining official certifications from MathWorks (Matlab's creators).
-I'm working to obtain a Python certification.
+- C
+- MatLab (applied for heat transfer problems)
+- 
+I've recently started learning Python.
 
 #### ⚡ My GitHub Statistics
 
