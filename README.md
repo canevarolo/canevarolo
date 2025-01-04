@@ -6,7 +6,7 @@ Born in 2000 in Turin, Italy.
 <img src="https://github.com/madebybowtie/FlagKit/blob/master/Assets/PNG/IT.png">
 
 
-#### Languages I know
+#### Languages I studied
 </p>
 
 - C
