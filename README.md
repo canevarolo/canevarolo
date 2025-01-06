@@ -30,7 +30,5 @@ I've recently started learning Python.
 [![LinkedIN Badge](https://img.shields.io/badge/-Linkedin-0e76a8?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/simone-canevarolo-270952199/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0e76a8?logo=Telegram&logoColor=white)](https://t.me/SCanevarolo)
 
-#### 🏆 Github Achievements
-[![trophy](https://github-profile-trophy.vercel.app/canevarolo=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=canevarolo&label=Profile%20views&color=0e75b6&style=flat" alt="canevarolo" /> </p>
