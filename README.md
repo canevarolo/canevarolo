@@ -10,9 +10,8 @@ Born in 2000 in Turin, Italy.
 </p>
 
 - C
-- MatLab (applied for heat transfer problems)
-  
-I've recently started learning Python.
+- MatLab
+- Python (a few)
 
 #### ⚡ My GitHub Statistics
 
