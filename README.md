@@ -1,9 +1,8 @@
 ## Hi there! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" height="50" width="50">
 
-My name is Simone Canevarolo, energy engineering student at Politecnico di Torino. 🎓
-Born in 2000 in Turin, Italy.
+My name is Simone Canevarolo, energy engineering student at Politecnico di Torino. 🎓<img src="https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/IT.png">  
 
-<img src="https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/IT.png">
+Born in 2000 in Turin, Italy.
 
 #### Languages I studied
 
@@ -13,17 +12,6 @@ Born in 2000 in Turin, Italy.
 
 #### ⚡ My GitHub Statistics
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=canevarolo&show_icons=true&hide_border=true&theme=vue-dark" />
-
-<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=canevarolo&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=vue-dark"/>
-
-#### 🔗 Social Media
-
-[![LinkedIN Badge](https://img.shields.io/badge/-Linkedin-0e76a8?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/simone-canevarolo-270952199/)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0e76a8?logo=Telegram&logoColor=white)](https://t.me/SCanevarolo)
-
-#### 🏆 Github Achievements
-
-<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=canevarolo" alt="canevarolo" /></a></p>
+<img height="180em" src="https://streak-stats.demolab.com/?user=canevarolo&theme=vue-dark&hide_border=true" />
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=canevarolo&label=Profile%20views&color=0e75b6&style=flat" alt="canevarolo" /></p>
