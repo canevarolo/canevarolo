@@ -1,8 +1,6 @@
 ## Hi there! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" height="50" width="50">
 
-My name is Simone Canevarolo, energy engineering student at Politecnico di Torino. 🎓<img src="https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/IT.png">  
-
-Born in 2000 in Turin, Italy.
+I'm Simone Canevarolo, Energy engineering student at @polito. 🎓<img src="https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/IT.png">  
 
 #### Languages I studied
 
