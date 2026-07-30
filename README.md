@@ -7,7 +7,7 @@ I'm **Simone Canevarolo**, Energy and Nuclear Engineering student at [Politecnic
 ### 👨‍💻 About Me
 - 🎓 Studying **Energy and Nuclear Engineering** at **Politecnico di Torino**.
 - 💡 Passionate about energy systems modeling, thermodynamics, process simulation, and dynamic control.
-- 📬 Connect with me: [LinkedIn](https://www.linkedin.com) <!-- Aggiungi qui il link al tuo profilo LinkedIn -->
+- 📬 Connect with me: [LinkedIn](https://www.linkedin.com) <!-- Inserisci qui l'URL del tuo profilo -->
 
 ---
 
@@ -16,7 +16,7 @@ I'm **Simone Canevarolo**, Energy and Nuclear Engineering student at [Politecnic
 #### 💻 Programming & Scripting
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB_(Certified)-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 
 #### ⚙️ Modeling, Control & Thermodynamics
 ![Simulink](https://img.shields.io/badge/Simulink-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
