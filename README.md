@@ -1,12 +1,6 @@
 ## Hi there! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" height="50" width="50">
 
-I'm Simone Canevarolo, Energy engineering student at @polito. 🎓<img src="https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/IT.png">  
-
-#### Languages I studied
-
-- C
-- MatLab
-- Python (a few)
+I'm Simone Canevarolo, Energy and Nuclear engineering student at [Politecnico di Torino](https://www.polito.it). 🎓<img src="https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/IT.png">  
 
 #### ⚡ My GitHub Statistics
 
