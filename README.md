@@ -1,6 +1,6 @@
 ## Hi there! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" height="50" width="50">
 
-I'm **Simone Canevarolo**, a Master's student in **Energy and Nuclear Engineering** at [Politecnico di Torino](https://www.polito.it). 🎓
+I'm **Simone Canevarolo**, a Master's student in **Energy and Nuclear Engineering** at [Politecnico di Torino](https://www.polito.it). 🎓  
 My background includes Energy Systems Modeling, Applied Thermodynamics, Process Simulation, and Dynamic Control. 💡
 
 ---
