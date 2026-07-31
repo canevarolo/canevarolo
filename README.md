@@ -3,12 +3,7 @@
 I'm **Simone Canevarolo**, a Master's student in **Energy and Nuclear Engineering** at [Politecnico di Torino](https://www.polito.it). 🎓  
 My background includes Energy Systems Modeling, Applied Thermodynamics, Process Simulation, and Dynamic Control. 💡
 
----
-
-### 👨‍💻 About Me
-- 🎓 Master's student in **Energy and Nuclear Engineering** at **Politecnico di Torino**.
-- 💡 Main focus: Energy Systems Modeling, Applied Thermodynamics, Process Simulation & Dynamic Control.
-- 📬 Connect with me: [LinkedIn](https://www.linkedin.com/in/simone-canevarolo-270952199/) 
+📬 Connect with me: [LinkedIn](https://www.linkedin.com/in/simone-canevarolo-270952199/) 
 
 ---
 
